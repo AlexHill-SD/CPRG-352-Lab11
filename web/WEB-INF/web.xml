@@ -56,7 +56,7 @@
         <description>The E-mail address of the e-mail account responsible for sending out emails responsible for sending out emails via java mail</description>
         <env-entry-name>webmail-username</env-entry-name>
         <env-entry-type>java.lang.String</env-entry-type>
-        <env-entry-value>your_email@gmail.com</env-entry-value>
+        <env-entry-value>your_email_address@gmail.com</env-entry-value>
     </env-entry>
     <env-entry>
         <description>The password of the e-mail account responsible for sending out emails via java mail</description>
